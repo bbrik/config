@@ -31,6 +31,6 @@ alias da='noglob django-admin.py'
 alias pa='projadmin'
 alias pain='projadmin ingest'
 alias pg_start='postgres -D /usr/local/var/postgres'
-alias config='`which git` --git-dir=$HOME/.config/ --work-tree=$HOME'
+alias config='`which git` --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
 export LANG=en_US.UTF-8
