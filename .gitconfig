@@ -20,7 +20,6 @@
     frag = magenta bold
     old = red bold
     new = green bold
-    #whitespace = red reverse
 
 [color "status"]
     added = yellow
@@ -35,42 +34,12 @@
 [alias]
     st = status -sb
     co = checkout
-    ci = commit
-    df = diff
-    dt = difftool
-    re = reset --hard HEAD
     ls = ls-files
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
-    lo = log --graph --pretty --abbrev-commit --stat --decorate=short
-    lp = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
-    lpa = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --all
-    # usage example: git w -n5
-    w = whatchanged
-    # add all changed (but not new) files to stage (index):
-    au = add -u
-    ffs = flow feature start
-    fff = flow feature finish
-    fhs = flow hotfix start
-    fhf = flow hotfix finish
-    frs = flow release start
-    frf = flow release finish
     mnf = merge --no-ff
-    au = update-index --assume-unchanged
-    nau = update-index --no-assume-unchanged
-
-#[merge]
-#    tool = meld
-
-#[diff]
-#    tool = meld
 
 [repack]
     usedeltabaseoffset = true
-
-[github]
-    user = user
-	token = b8023f308f8037fb75fb5ba77102b050
-	username = bbrik
 
 [branch "master"]
     remote = origin
@@ -80,12 +49,7 @@
     threads = 2
 
 [receive]
-        denyCurrentBranch = ignore
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
+    denyCurrentBranch = ignore
+
 [push]
 	default = current
