@@ -1,0 +1,1 @@
+/Users/bbrik/Dropbox/configs/el capitan/.zshrc
