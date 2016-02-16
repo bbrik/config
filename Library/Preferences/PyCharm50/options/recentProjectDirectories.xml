@@ -1,0 +1,91 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev/placapro2" />
+        <option value="$USER_HOME$/dev/placapro" />
+        <option value="$USER_HOME$/dev/django-pjax-middleware" />
+        <option value="$USER_HOME$/dev/fbcu" />
+        <option value="$USER_HOME$/dev/curtacinema" />
+        <option value="$USER_HOME$/dev/fbcu/anuais/2015" />
+        <option value="$USER_HOME$/dev/vegano" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/placapro2" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/placapro2" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/curtacinema">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448291816792" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/django-pjax-middleware">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449751028559" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/fbcu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448988127439" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/fbcu/anuais/2015">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447962254739" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/placapro">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452181763103" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/placapro2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455639813638" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

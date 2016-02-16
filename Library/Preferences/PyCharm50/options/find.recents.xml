@@ -1,0 +1,62 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>get_profile</find>
+      <find>flime_user_detail</find>
+      <find>filme_user_detail</find>
+      <find>profile</find>
+      <find>pro</find>
+      <find>obs</find>
+      <find>galerias</find>
+      <find>insti</find>
+      <find>fuzz</find>
+      <find>admin</find>
+      <find>profiles</find>
+      <find>pjg</find>
+      <find>anuais</find>
+      <find>extends 'anuais/2014</find>
+      <find>float</find>
+      <find>container</find>
+      <find>assertE</find>
+      <find>&quot;</find>
+      <find>$</find>
+      <find>fancybo</find>
+      <find>css</find>
+      <find>fancybox.css</find>
+      <find>sprite</find>
+      <find>^</find>
+      <find>text-center</find>
+      <find>Users/bbrik/dev/placapro/node_modules</find>
+      <find>$USER_HOME$/dev/placapro</find>
+      <find>placapro</find>
+      <find>col</find>
+      <find>col-sm</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;td&gt;</replace>
+      <replace>&lt;tr&gt;&lt;/td&gt;</replace>
+      <replace>&lt;tr&gt;&lt;td&gt;</replace>
+      <replace>parceiros</replace>
+      <replace>pkg</replace>
+      <replace>extends 'site_2014</replace>
+      <replace>&quot;&quot;&quot;</replace>
+      <replace>u&quot;</replace>
+      <replace>&lt;/li&gt;</replace>
+      <replace>&lt;p&gt;</replace>
+      <replace>Users/bbrik/dev/placapro2/node_modules</replace>
+      <replace>$USER_HOME$/dev/placapro2</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/curtacinema</dir>
+      <dir>$USER_HOME$/dev/fbcu/templates/grafica</dir>
+      <dir>$USER_HOME$/dev/fbcu/templates/docs</dir>
+      <dir>$USER_HOME$/dev/fbcu</dir>
+      <dir>$USER_HOME$/dev/fbcu/templates</dir>
+      <dir>$USER_HOME$/dev/placapro</dir>
+      <dir>$USER_HOME$/dev/fbcu/site_2015</dir>
+      <dir>$USER_HOME$/dev/fbcu/site_2014/templates/site_2014</dir>
+      <dir>$USER_HOME$/dev/fbcu/site_2015/templates/site_2015</dir>
+      <dir>$USER_HOME$/dev/placapro2</dir>
+    </dirStrings>
+  </component>
+</application>
