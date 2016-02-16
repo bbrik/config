@@ -27,6 +27,7 @@ export PYTHONDONTWRITEBYTECODE=True
 
 
 alias dir='ls -lahF --group-directories-first'
+alias lr='ls -hartl'
 alias da='noglob django-admin.py'
 alias pa='projadmin'
 alias pain='projadmin ingest'
