@@ -2,7 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="Scss.mixin" />
         <option value="Scss.function" />
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
@@ -52,6 +51,7 @@
         <option value="angularjs.directives.index" />
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
+        <option value="Scss.mixin" />
       </list>
     </option>
   </component>

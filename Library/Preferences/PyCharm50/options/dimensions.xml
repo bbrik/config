@@ -7,15 +7,15 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="453" />
     <location key="CommitChangelistDialog2.0.0.2560.1440" x="934" y="440" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="406" y="288" />
-    <location key="SettingsEditor.-2560.0.2560.1440" x="-1719" y="221" />
-    <location key="com.intellij.ide.util.TipDialog.-2560.0.2560.1440" x="-2154" y="828" />
+    <location key="SettingsEditor.-2560.0.2560.1440" x="-1394" y="441" />
+    <location key="com.intellij.ide.util.TipDialog.-2560.0.2560.1440" x="-2286" y="684" />
     <location key="CommitChangelistDialog2.-2560.0.2560.1440" x="-1626" y="440" />
     <location key="#com.intellij.ide.util.MemberChooser.-2560.0.2560.1440" x="-1467" y="453" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-2560.0.2560.1440" x="-1518" y="624" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.-2560.0.2560.1440" x="-1530" y="607" />
     <location key="WELCOME_SCREEN.-2560.0.2560.1440" x="-1280" y="230" />
     <location key="findTextDialog.-2560.0.2560.1440" x="-1486" y="498" />
-    <location key="FileChooserDialogImpl.-2560.0.2560.1440" x="-1413" y="320" />
+    <location key="FileChooserDialogImpl.-2560.0.2560.1440" x="-916" y="525" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.-2560.0.2560.1440" x="-1580" y="530" />
     <location key="#Inspections.-2560.0.2560.1440" x="-1677" y="403" />
     <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.-2560.0.2560.1440" x="-1631" y="515" />
@@ -23,6 +23,9 @@
     <location key="replaceTextDialog.-2560.0.2560.1440" x="-1518" y="443" />
     <location key="ReplaceDuplicatesPrompt.-2560.0.2560.1440" x="-1808" y="655" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.-2560.0.2560.1440" x="-1464" y="411" />
+    <location key="#ESLint.-2560.0.2560.1440" x="-1461" y="533" />
+    <location key="#Closure_Linter.-2560.0.2560.1440" x="-1436" y="587" />
+    <location key="#JSCS.-2560.0.2560.1440" x="-1449" y="507" />
     <size key="CommitChangelistDialog2.-2560.0.2560.1440" width="1019" height="656" />
     <size key="GridCell.Tab.0.left.-2560.0.2560.1440" width="2560" height="516" />
     <size key="GridCell.Tab.0.center.-2560.0.2560.1440" width="2560" height="516" />
@@ -33,5 +36,8 @@
     <size key="GridCell.Tab.1.center.-2560.0.2560.1440" width="2560" height="516" />
     <size key="GridCell.Tab.1.right.-2560.0.2560.1440" width="2560" height="516" />
     <size key="GridCell.Tab.1.bottom.-2560.0.2560.1440" width="2560" height="516" />
+    <size key="FileChooserDialogImpl.-2560.0.2560.1440" width="551" height="612" />
+    <size key="#ESLint.-2560.0.2560.1440" width="458" height="442" />
+    <size key="#JSCS.-2560.0.2560.1440" width="338" height="584" />
   </component>
 </application>

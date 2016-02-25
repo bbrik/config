@@ -1,67 +1,73 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="javaScript Scope Usages">
-      <project id="vegano" values="Project,Project" collectionTime="1444052064617" />
-      <project id="curtacinema" values="Project,Project" collectionTime="1448294166502" />
-      <project id="2015" values="Project,Project" collectionTime="1447962265772" />
-      <project id="django-pjax-middleware" values="Project,Project" collectionTime="1449751117452" />
-      <project id="fbcu" values="Project,Project,Project" collectionTime="1448989076845" />
-      <project id="placapro" values="Project,Project" collectionTime="1455645413627" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="vegano" values="DEFAULT" collectionTime="1444052064617" />
-      <project id="curtacinema" values="ECMAScript 5.1" collectionTime="1448294166502" />
-      <project id="2015" values="ECMAScript 5.1" collectionTime="1447962265772" />
-      <project id="django-pjax-middleware" values="ECMAScript 5.1" collectionTime="1449751117452" />
-      <project id="fbcu" values="ECMAScript 5.1" collectionTime="1448989076845" />
-      <project id="placapro" values="ECMAScript 5.1" collectionTime="1455645413627" />
-    </group>
-    <group name="module type">
-      <project id="vegano" values="PYTHON_MODULE" collectionTime="1444052064525" />
-      <project id="curtacinema" values="PYTHON_MODULE" collectionTime="1448294166040" />
-      <project id="2015" values="PYTHON_MODULE" collectionTime="1447962265679" />
-      <project id="django-pjax-middleware" values="PYTHON_MODULE" collectionTime="1449751117266" />
-      <project id="fbcu" values="PYTHON_MODULE" collectionTime="1448989076722" />
-      <project id="placapro" values="PYTHON_MODULE" collectionTime="1455645413516" />
+    <group name="run-configuration-type-temp">
+      <project id="placapro" values="PythonConfigurationType,DjangoTestsConfigurationType" collectionTime="1455645413517" />
     </group>
     <group name="vcs">
       <project id="vegano" values="Git" collectionTime="1444052064524" />
       <project id="curtacinema" values="Git" collectionTime="1448294166039" />
+      <project id="pessoal" values="Git" collectionTime="1456414021655" />
+      <project id="django-pjax-middleware" values="Git" collectionTime="1449751117266" />
       <project id="fbcu" values="Git" collectionTime="1448989076722" />
       <project id="placapro" values="Git" collectionTime="1455645413515" />
-      <project id="django-pjax-middleware" values="Git" collectionTime="1449751117266" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="placapro" values="DjangoTestsConfigurationType,PythonConfigurationType" collectionTime="1455645413517" />
-    </group>
-    <group name="file-type">
-      <project id="vegano" values="Python,XML,Images,ReST,Native,CSS,Locale,JSON,PLAIN_TEXT,JavaScript,JSHint,HTML,UNKNOWN,SourceMap,YAML,Less" collectionTime="1444052064541" />
-      <project id="curtacinema" values="Native,JSON,UNKNOWN,SQL,SourceMap,Images,JSHint,ReST,XML,YAML,Locale,PLAIN_TEXT,JavaScript,Python,JSCS,CSS,HTML,Less" collectionTime="1448294166079" />
-      <project id="2015" values="Python,HTML,PATCH,PLAIN_TEXT,CSS,Less,Images,UNKNOWN,YAML,XML,C++,JSCS,JSON,JavaScript,SourceMap,JSHint,ESLint" collectionTime="1447962265695" />
-      <project id="django-pjax-middleware" values="UNKNOWN,ReST,XML,Python,PLAIN_TEXT" collectionTime="1449751117273" />
-      <project id="fbcu" values="Images,CSS,Native,YAML,Python,SourceMap,HTML,ARCHIVE,JSCS,Locale,XML,Less,JSON,UNKNOWN,JavaScript,PLAIN_TEXT,JSHint" collectionTime="1448989076737" />
-      <project id="placapro" values="Python,Images,CSS,JSHint,JavaScript,PLAIN_TEXT,JSON,YAML,Native,SourceMap,Less,UNKNOWN,JSCS,ARCHIVE,XML,HTML" collectionTime="1455645413529" />
-    </group>
-    <group name="py-interpreter">
-      <project id="vegano" values="Python 2.7.10" collectionTime="1444052064546" />
-      <project id="curtacinema" values="Python 2.7.10" collectionTime="1448294166119" />
-      <project id="2015" values="Python 2.7.10" collectionTime="1447962265698" />
-      <project id="django-pjax-middleware" values="Python 2.7.10" collectionTime="1449751117276" />
-      <project id="fbcu" values="Python 2.7.10" collectionTime="1448989076742" />
-      <project id="placapro" values="Python 2.7.11" collectionTime="1455645413532" />
     </group>
     <group name="frameworks">
       <project id="curtacinema" values="django" collectionTime="1448294166040" />
       <project id="fbcu" values="django" collectionTime="1448989076722" />
       <project id="placapro" values="django" collectionTime="1455645413516" />
     </group>
+    <group name="JavaScript versions">
+      <project id="vegano" values="DEFAULT" collectionTime="1444052064617" />
+      <project id="curtacinema" values="ECMAScript 5.1" collectionTime="1448294166502" />
+      <project id="pessoal" values="ECMAScript 5.1" collectionTime="1456414021737" />
+      <project id="2015" values="ECMAScript 5.1" collectionTime="1447962265772" />
+      <project id="django-pjax-middleware" values="ECMAScript 5.1" collectionTime="1449751117452" />
+      <project id="fbcu" values="ECMAScript 5.1" collectionTime="1448989076845" />
+      <project id="placapro" values="ECMAScript 5.1" collectionTime="1455645413627" />
+    </group>
     <group name="javaScript Frameworks">
       <project id="fbcu" values="node_modules" collectionTime="1448989076845" />
+    </group>
+    <group name="py-interpreter">
+      <project id="vegano" values="Python 2.7.10" collectionTime="1444052064546" />
+      <project id="curtacinema" values="Python 2.7.10" collectionTime="1448294166119" />
+      <project id="pessoal" values="Python 2.7.11" collectionTime="1456414021667" />
+      <project id="2015" values="Python 2.7.10" collectionTime="1447962265698" />
+      <project id="django-pjax-middleware" values="Python 2.7.10" collectionTime="1449751117276" />
+      <project id="fbcu" values="Python 2.7.10" collectionTime="1448989076742" />
+      <project id="placapro" values="Python 2.7.11" collectionTime="1455645413532" />
+    </group>
+    <group name="file-type">
+      <project id="vegano" values="PLAIN_TEXT,Less,SourceMap,UNKNOWN,Python,JSHint,HTML,ReST,Images,YAML,XML,Native,Locale,CSS,JavaScript,JSON" collectionTime="1444052064541" />
+      <project id="curtacinema" values="HTML,SourceMap,SQL,ReST,JavaScript,UNKNOWN,XML,Native,CSS,JSON,Locale,JSHint,Images,JSCS,Python,YAML,Less,PLAIN_TEXT" collectionTime="1448294166079" />
+      <project id="pessoal" values="HTML,CSS,YAML,JSCS,C++,XML,SourceMap,Native,Images,PATCH,ESLint,Python,ReST,Handlebars/Mustache,JSON,UNKNOWN,PLAIN_TEXT,JavaScript,JSHint,JSX Harmony,CoffeeScript" collectionTime="1456414021663" />
+      <project id="2015" values="PLAIN_TEXT,Images,JSON,CSS,Less,JSCS,C++,YAML,XML,PATCH,JavaScript,Python,ESLint,UNKNOWN,HTML,JSHint,SourceMap" collectionTime="1447962265695" />
+      <project id="django-pjax-middleware" values="XML,ReST,PLAIN_TEXT,Python,UNKNOWN" collectionTime="1449751117273" />
+      <project id="fbcu" values="JavaScript,JSHint,ARCHIVE,Locale,Images,CSS,XML,PLAIN_TEXT,HTML,Python,SourceMap,Native,YAML,JSCS,Less,JSON,UNKNOWN" collectionTime="1448989076737" />
+      <project id="placapro" values="XML,Images,JavaScript,Python,JSON,JSCS,PLAIN_TEXT,YAML,ARCHIVE,CSS,Native,JSHint,HTML,SourceMap,Less,UNKNOWN" collectionTime="1455645413529" />
+    </group>
+    <group name="module type">
+      <project id="vegano" values="PYTHON_MODULE" collectionTime="1444052064525" />
+      <project id="curtacinema" values="PYTHON_MODULE" collectionTime="1448294166040" />
+      <project id="pessoal" values="PYTHON_MODULE" collectionTime="1456414021656" />
+      <project id="2015" values="PYTHON_MODULE" collectionTime="1447962265679" />
+      <project id="django-pjax-middleware" values="PYTHON_MODULE" collectionTime="1449751117266" />
+      <project id="fbcu" values="PYTHON_MODULE" collectionTime="1448989076722" />
+      <project id="placapro" values="PYTHON_MODULE" collectionTime="1455645413516" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="vegano" values="Project,Project" collectionTime="1444052064617" />
+      <project id="curtacinema" values="Project,Project" collectionTime="1448294166502" />
+      <project id="pessoal" values="Project,Project,Project,Project" collectionTime="1456414021737" />
+      <project id="2015" values="Project,Project" collectionTime="1447962265772" />
+      <project id="django-pjax-middleware" values="Project,Project" collectionTime="1449751117452" />
+      <project id="fbcu" values="Project,Project,Project" collectionTime="1448989076845" />
+      <project id="placapro" values="Project,Project" collectionTime="1455645413627" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="16" />
+      <entry feature="CreateFile.CreateFileAction" count="17" />
       <entry feature="execute.DjangoTestsConfigurationType.Debug" count="3" />
       <entry feature="execute.DjangoTestsConfigurationType.Run" count="2" />
       <entry feature="execute.Python.DjangoServer.Run" count="1" />
@@ -74,23 +80,24 @@
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
       <entry feature="ide.settings.Console_Font" count="1" />
       <entry feature="ide.settings.Django" count="5" />
+      <entry feature="ide.settings.ESLint" count="4" />
       <entry feature="ide.settings.File_and_Code_Templates" count="1" />
-      <entry feature="ide.settings.Font" count="7" />
+      <entry feature="ide.settings.Font" count="9" />
       <entry feature="ide.settings.General" count="6" />
       <entry feature="ide.settings.HTML" count="1" />
-      <entry feature="ide.settings.Inspections" count="3" />
-      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Inspections" count="6" />
+      <entry feature="ide.settings.JavaScript" count="2" />
       <entry feature="ide.settings.Libraries" count="1" />
       <entry feature="ide.settings.Live_Templates" count="2" />
       <entry feature="ide.settings.Project_Interpreter" count="5" />
-      <entry feature="ide.settings.Project_Structure" count="7" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
       <entry feature="ide.settings.Python" count="3" />
       <entry feature="ide.settings.Python_Template_Languages" count="2" />
       <entry feature="ide.settings.Smart_Keys" count="1" />
       <entry feature="ide.settings.TypeScript" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="ide.settings.XML" count="1" />
-      <entry feature="ideaapp.started" count="62" />
+      <entry feature="ideaapp.started" count="64" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>
   </component>

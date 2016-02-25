@@ -9,11 +9,11 @@
     <property name="PyCharm.InitialConfiguration.V4" value="true" />
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="installation.uid" value="1d71612a-6876-4c6d-a0ce-1259fc714f3c" />
-    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeChangedCounter" value="3" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="60" />
+    <property name="lastTip" value="62" />
     <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/settings.jar" />
     <property name="PACKAGE_FILTER" value="" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -25,9 +25,9 @@
     <property name="INSPECTION_FILTER_HISTORY" value="tag&#10;&quot;New in 13&quot;" />
     <property name="ColorChooser.RecentColors" value="110-93-44-255,,,1-0-41-255,,,41-11-0-255,,,0-171-145-255,,,255-91-157-255,,,53-21-65-255,,,86-118-112-255,,,217-140-36-255,,,235-157-36-255,,,54-54-54-255,,,159-94-32-255,,,209-171-107-255,,,209-139-76-255,,,209-85-79-255,,,231-107-104-255" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="FileTemplates.SelectedTemplate" value="Less File" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="evlsprt3.5" value="18" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/placapro2/placapro2/settings/local.py&#10;/Users/bbrik/.virtualenvs/placapro2/bin/python&#10;/Users/bbrik/dev/placapro/placapro/settings/local.py&#10;/Users/bbrik/dev/placapro&#10;/Users/bbrik/.virtualenvs/placapro/bin/python&#10;/Users/bbrik/dev/django-pjax-middleware&#10;/Users/bbrik/dev/fbcu/node_modules&#10;/Users/bbrik/dev/fbcu/fbcu/settings/local.py&#10;/Users/bbrik/dev/fbcu" />
+    <property name="file.chooser.recent.files" value="/usr/local/lib/node_modules/eslint&#10;/usr/local/lib/node_modules/eslint/bin&#10;/Users/bbrik/dev/placapro2/placapro2/settings/local.py&#10;/Users/bbrik/.virtualenvs/placapro2/bin/python&#10;/Users/bbrik/dev/placapro/placapro/settings/local.py&#10;/Users/bbrik/dev/placapro&#10;/Users/bbrik/.virtualenvs/placapro/bin/python&#10;/Users/bbrik/dev/django-pjax-middleware&#10;/Users/bbrik/dev/fbcu/node_modules&#10;/Users/bbrik/dev/fbcu/fbcu/settings/local.py&#10;/Users/bbrik/dev/fbcu" />
     <property name="js.rename.search.in.comments" value="true" />
     <property name="js.rename.search.for.text.occurrences" value="false" />
     <property name="emmet.last.wrap.abbreviations" value="p" />
@@ -40,5 +40,6 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
   </component>
 </application>

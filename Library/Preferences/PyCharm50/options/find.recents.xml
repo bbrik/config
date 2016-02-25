@@ -1,13 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>get_profile</find>
-      <find>flime_user_detail</find>
-      <find>filme_user_detail</find>
-      <find>profile</find>
-      <find>pro</find>
-      <find>obs</find>
-      <find>galerias</find>
       <find>insti</find>
       <find>fuzz</find>
       <find>admin</find>
@@ -31,6 +24,13 @@
       <find>placapro</find>
       <find>col</find>
       <find>col-sm</find>
+      <find>no-rese</find>
+      <find>space-</find>
+      <find>no-wrap</find>
+      <find>quote-prop</find>
+      <find>semi</find>
+      <find>jsx</find>
+      <find>indent</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;td&gt;</replace>

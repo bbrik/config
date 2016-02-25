@@ -2,6 +2,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/dev/pessoal" />
         <option value="$USER_HOME$/dev/placapro2" />
         <option value="$USER_HOME$/dev/placapro" />
         <option value="$USER_HOME$/dev/django-pjax-middleware" />
@@ -13,10 +14,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/placapro2" />
+        <option value="$USER_HOME$/dev/pessoal" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/placapro2" />
+    <option name="lastPath" value="$USER_HOME$/dev/pessoal" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/dev/curtacinema">
@@ -59,6 +60,17 @@
               <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1447962254739" />
+              <option name="buildTimestamp" value="1447120800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/pessoal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-143.595" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456414035454" />
               <option name="buildTimestamp" value="1447120800000" />
             </RecentProjectMetaInfo>
           </value>
