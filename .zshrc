@@ -35,3 +35,5 @@ alias pg_start='postgres -D /usr/local/var/postgres'
 alias config='`which git` --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
 export LANG=en_US.UTF-8
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
