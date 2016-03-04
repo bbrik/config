@@ -1,3 +1,4 @@
+export PATH=$(brew --prefix coreutils)/libexec/gnubin:$PATH
 
 export ZSH=$HOME/.oh-my-zsh
 
