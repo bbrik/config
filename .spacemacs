@@ -100,7 +100,8 @@ values."
    ;; List of themes, the first of the list is loaded when spacemacs starts.
    ;; Press <SPC> T n to cycle to the next theme in the list (works great
    ;; with 2 themes variants, one dark and one light)
-   dotspacemacs-themes '(spacemacs-dark
+   dotspacemacs-themes '(base16-ashes-dark
+                         spacemacs-dark
                          spacemacs-light
                          solarized-light
                          solarized-dark
@@ -265,6 +266,7 @@ layers configuration. You are free to put any user code."
   (setq powerline-default-separator 'bar)
 
   (when (memq window-system '(ns mac))
+    (setq-default line-spacing 0.1)
     (setq mac-command-modifier 'super)
     (setq mac-option-modifier 'meta)
     ;; enable ligatures on OS X.
