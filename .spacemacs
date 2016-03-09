@@ -30,7 +30,6 @@ values."
      javascript
      markdown
      org
-     osx
      python
      react
      semantic
@@ -39,6 +38,7 @@ values."
             shell-default-position 'bottom)
      ;; spell-checking
      syntax-checking
+     unimpaired
      version-control
      )
    ;; List of additional packages that will be installed without being
@@ -87,7 +87,7 @@ values."
    ;; directory. A string value must be a path to an image format supported
    ;; by your Emacs build.
    ;; If the value is nil then no banner is displayed. (default 'official)
-   dotspacemacs-startup-banner 'official
+   dotspacemacs-startup-banner nil
    ;; List of items to show in the startup buffer. If nil it is disabled.
    ;; Possible values are: `recents' `bookmarks' `projects'.
    ;; (default '(recents projects))
@@ -263,6 +263,20 @@ in `dotspacemacs/user-config'."
 This function is called at the very end of Spacemacs initialization after
 layers configuration. You are free to put any user code."
   (setq powerline-default-separator 'bar)
+
+  (when (memq window-system '(ns mac))
+    (setq mac-command-modifier 'super)
+    (setq mac-option-modifier 'meta)
+    ;; enable ligatures on OS X.
+    (when (functionp 'mac-auto-operator-composition-mode)
+      (setq mac-auto-operator-composition-characters "!\"#$%&'()*+,-/:;<=>?@[]^_`{|}~")
+      (mac-auto-operator-composition-mode))
+
+    (setq ns-use-native-fullscreen nil)
+    (setq ns-command-modifier 'super)
+    (setq ns-alternate-modifier 'meta)
+    (setq ns-auto-hide-menu-bar nil)
+    )
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
