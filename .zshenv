@@ -3,8 +3,8 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export MANPATH="/usr/local/man:$MANPATH"
 
 export PAGER=`which most`
-export EDITOR=`which nano`
-export VISUAL=`which nano`
+export EDITOR=`which vi`
+export VISUAL=`which vi`
 
 export PGDATA="/usr/local/var/postgres"
 export PGUSER="bbrik"
