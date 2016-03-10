@@ -286,15 +286,18 @@ layers configuration. You are free to put any user code."
     (setq ns-auto-hide-menu-bar nil)
     )
 
-  (setq projectile-globally-ignored-directories '(
-                                                  ".idea"
-                                                  "node_modules"
-                                                  ".meteor/local"
-                                                  ))
+  (setq grep-find-ignored-directories '(
+                                        ".idea"
+                                        ".meteor"
+                                        "node_modules"
+                                        ".git"
+                                        ".hg"
+                                        ".svn"
+                                        ))
 
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)
   )
 
-;; Do not write anything past this comment. This is where Emacs will
-;; auto-generate custom variable definitions.
+;; ;; Do not write anything past this comment. This is where Emacs will
+;; ;; auto-generate custom variable definitions.
