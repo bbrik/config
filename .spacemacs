@@ -268,6 +268,9 @@ This function is called at the very end of Spacemacs initialization after
 layers configuration. You are free to put any user code."
   (setq powerline-default-separator 'bar)
 
+  (add-hook 'react-mode-hook 'js2-mode-hide-warnings-and-errors)
+  (add-hook 'js2-mode-hook 'js2-mode-hide-warnings-and-errors)
+
   (when (memq window-system '(ns mac))
     (setq-default line-spacing 0.1)
     (setq mac-command-modifier 'super)
