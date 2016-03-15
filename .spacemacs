@@ -261,6 +261,8 @@ in `dotspacemacs/user-config'."
     (add-to-list 'web-mode-indentation-params '("lineup-calls" . nil)))
 
   (setq-default require-final-newline t)
+  ;; Para de reclamar que a linha de commit é muito longa
+  (setq-default git-commit-check-style-conventions nil)
   )
 
 (defun dotspacemacs/user-config ()
