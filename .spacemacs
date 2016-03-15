@@ -271,7 +271,7 @@ layers configuration. You are free to put any user code."
 
   (add-hook 'react-mode-hook 'js2-mode-hide-warnings-and-errors)
   (add-hook 'js2-mode-hook 'js2-mode-hide-warnings-and-errors)
-  (add-hook 'react-mode-hook 'emmet-mode)
+  (add-hook 'org-mode-hook 'auto-fill-mode)
 
   (when (memq window-system '(ns mac))
     (setq-default line-spacing 0.1)
