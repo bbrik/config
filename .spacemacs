@@ -301,6 +301,9 @@ layers configuration. You are free to put any user code."
 
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)
+
+  (spacemacs/declare-prefix "o" "bbrik")
+  (spacemacs/set-leader-keys "o e" 'emmet-mode)
   )
 
 ;; ;; Do not write anything past this comment. This is where Emacs will
