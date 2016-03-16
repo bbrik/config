@@ -103,13 +103,12 @@ values."
    ;; Press <SPC> T n to cycle to the next theme in the list (works great
    ;; with 2 themes variants, one dark and one light)
    dotspacemacs-themes '(base16-ashes-dark
+                         base16-eighties-dark
+                         base16-tomorrow-dark
+                         base16-twilight-dark
                          spacemacs-dark
-                         spacemacs-light
-                         solarized-light
                          solarized-dark
-                         leuven
-                         monokai
-                         zenburn)
+                         )
    ;; If non nil the cursor color matches the state color in GUI Emacs.
    dotspacemacs-colorize-cursor-according-to-state t
    ;; Default font. `powerline-scale' allows to quickly tweak the mode-line
@@ -303,7 +302,8 @@ layers configuration. You are free to put any user code."
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)
 
   (spacemacs/declare-prefix "o" "bbrik")
-  (spacemacs/set-leader-keys "o e" 'emmet-mode)
+  (spacemacs/set-leader-keys "oe" 'emmet-mode)
+  (spacemacs/set-leader-keys "ol" 'mac-auto-operator-composition-mode)
   )
 
 ;; ;; Do not write anything past this comment. This is where Emacs will
