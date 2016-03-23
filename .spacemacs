@@ -178,6 +178,7 @@ layers configuration. You are free to put any user code."
   (spacemacs/declare-prefix "o" "bbrik")
   (spacemacs/set-leader-keys "oe" 'emmet-mode)
   (spacemacs/set-leader-keys "ol" 'mac-auto-operator-composition-mode)
+  (spacemacs/set-leader-keys "os" 'projectile-save-project-buffers)
   )
 
 ;; ;; Do not write anything past this comment. This is where Emacs will
