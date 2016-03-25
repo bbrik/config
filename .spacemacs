@@ -175,6 +175,8 @@ layers configuration. You are free to put any user code."
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)
 
+  (define-key company-active-map (kbd "C-w") 'evil-delete-backward-word)
+
   (spacemacs/declare-prefix "o" "bbrik")
   (spacemacs/set-leader-keys "oe" 'emmet-mode)
   (spacemacs/set-leader-keys "ol" 'mac-auto-operator-composition-mode)
