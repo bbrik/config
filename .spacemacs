@@ -10,7 +10,9 @@ values."
    dotspacemacs-configuration-layer-path '()
    dotspacemacs-configuration-layers '(
      (auto-completion :variables
-                      auto-completion-tab-key-behavior 'complete)
+                      auto-completion-tab-key-behavior 'complete
+                      auto-completion-enable-snippets-in-popup t
+                      )
      emacs-lisp
      git
      html
