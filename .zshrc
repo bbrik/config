@@ -6,7 +6,7 @@ plugins=(brew django git postgres pip python rsync cp fabric virtualenv virtuale
 
 source $ZSH/oh-my-zsh.sh
 
-alias ls='ls --color'
+alias ls='ls --color -N'
 alias dir='ls -lahF --group-directories-first'
 alias lr='ls -hartl'
 alias da='noglob django-admin.py'
