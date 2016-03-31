@@ -2,7 +2,7 @@ export ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="agnoster"
 COMPLETION_WAITING_DOTS="true"
-plugins=(brew brew-cask django git git-flow-avh osx postgres pip python sublime rsync cp npm fabric virtualenv virtualenvwrapper zsh-syntax-highlighting bower meteor gnu-utils)
+plugins=(brew django git postgres pip python rsync cp fabric virtualenv virtualenvwrapper zsh-syntax-highlighting meteor gnu-utils)
 
 source $ZSH/oh-my-zsh.sh
 
