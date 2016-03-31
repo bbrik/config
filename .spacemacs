@@ -54,8 +54,9 @@ values."
    dotspacemacs-startup-recent-list-size 5
    dotspacemacs-scratch-mode 'text-mode
 
-   dotspacemacs-themes '(base16-ashes-dark
+   dotspacemacs-themes '(
                          base16-eighties-dark
+                         base16-ashes-dark
                          base16-tomorrow-dark
                          base16-twilight-dark
                          spacemacs-dark
