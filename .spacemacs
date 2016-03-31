@@ -148,6 +148,7 @@ layers configuration. You are free to put any user code."
   (add-hook 'react-mode-hook 'js2-mode-hide-warnings-and-errors)
   (add-hook 'js2-mode-hook 'js2-mode-hide-warnings-and-errors)
   (add-hook 'org-mode-hook 'auto-fill-mode)
+  (add-hook 'help-mode-hook (define-key evil-motion-state-map (kbd "ESC") 'quit-window))
 
   (when (memq window-system '(ns mac))
     (setq-default line-spacing 0.1)
