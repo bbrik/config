@@ -157,7 +157,6 @@ layers configuration. You are free to put any user code."
     (setq mac-option-modifier 'meta)
     ;; enable ligatures on OS X.
     (when (functionp 'mac-auto-operator-composition-mode)
-      (setq mac-auto-operator-composition-characters "!\"#$%&'()*+,-/:;<=>?@[]^_`{|}~")
       (mac-auto-operator-composition-mode))
 
     (setq ns-use-native-fullscreen nil)
