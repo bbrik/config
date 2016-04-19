@@ -13,6 +13,7 @@ values."
                       auto-completion-tab-key-behavior 'complete
                       auto-completion-enable-snippets-in-popup t
                       )
+     django
      emacs-lisp
      git
      html
