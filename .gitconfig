@@ -35,7 +35,7 @@
     st = status -sb
     co = checkout
     ls = ls-files
-    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+	  lg = log --all --color --graph --abbrev-commit --decorate --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %Creset'
     mnf = merge --no-ff
 
 [repack]
