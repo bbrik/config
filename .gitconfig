@@ -1,6 +1,6 @@
 [user]
-	name = Bernardo Brik
-	email = bernardobrik@gmail.com
+    name = Bernardo Brik
+    email = bernardobrik@gmail.com
 
 [color]
     diff = auto
@@ -27,15 +27,15 @@
     untracked = cyan
 
 [core]
-    whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
-	excludesfile = /Users/bbrik/.gitignore
-	autocrlf = input
+    whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+    excludesfile = /Users/bbrik/.gitignore
+    autocrlf = input
 
 [alias]
     st = status -sb
     co = checkout
     ls = ls-files
-	  lg = log --all --color --graph --abbrev-commit --decorate --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %Creset'
+    lg = log --all --color --graph --abbrev-commit --decorate --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %Creset'
     mnf = merge --no-ff
 
 [repack]
@@ -52,4 +52,4 @@
     denyCurrentBranch = ignore
 
 [push]
-	default = current
+    default = current
