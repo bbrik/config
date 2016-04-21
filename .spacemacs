@@ -175,6 +175,7 @@ layers configuration. You are free to put any user code."
                                         ".svn"
                                         "bower_components"
                                         ))
+  (setq helm-ag-use-agignore t)
 
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)

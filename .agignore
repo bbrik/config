@@ -1,0 +1,7 @@
+.idea/
+.meteor/
+node_modules/
+.git/
+.hg/
+.svn/
+bower_components/
