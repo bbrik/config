@@ -173,6 +173,7 @@ layers configuration. You are free to put any user code."
                                         ".git"
                                         ".hg"
                                         ".svn"
+                                        "bower_components"
                                         ))
 
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
