@@ -8,7 +8,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias ls='ls --color -N'
 alias dir='ls -lahF --group-directories-first'
-alias lr='ls -hartl'
+alias lr='ls -hArtl'
 alias da='noglob django-admin.py'
 alias pa='projadmin'
 alias pain='projadmin ingest'
