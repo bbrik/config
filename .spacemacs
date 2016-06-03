@@ -145,9 +145,6 @@ you should place your code here."
 
   (spaceline-compile)
 
-  ;; fix problem with wrong colors in mode line
-  ;; (setq ns-use-srgb-colorspace nil)
-
   ;; enable ligatures on OS X.
   (when (memq window-system '(ns mac))
     (when (functionp 'mac-auto-operator-composition-mode)
@@ -156,8 +153,6 @@ you should place your code here."
 
   (define-key evil-normal-state-map (kbd "+") 'evil-numbers/inc-at-pt)
   (define-key evil-normal-state-map (kbd "_") 'evil-numbers/dec-at-pt)
-
-  (define-key company-active-map (kbd "C-w") 'evil-delete-backward-word)
 
   (spacemacs/declare-prefix "o" "bbrik")
   (spacemacs/set-leader-keys "oe" 'emmet-mode)
