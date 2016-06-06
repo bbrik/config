@@ -23,7 +23,7 @@ values."
      ;; react
      osx
      ;; semantic
-     ;; syntax-checking
+     syntax-checking
      unimpaired
      ;; version-control
      )
