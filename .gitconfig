@@ -53,3 +53,5 @@
 
 [push]
     default = current
+[diff]
+	compactionHeuristic = true
