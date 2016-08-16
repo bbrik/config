@@ -14,8 +14,9 @@ values."
                       auto-completion-enable-snippets-in-popup t)
      ;; django
      emacs-lisp
+     fsharp
      ;; git
-     ;; html
+     html
      ;; javascript
      ;; markdown
      org
