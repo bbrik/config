@@ -2,6 +2,7 @@
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export MANPATH="/usr/local/man:$MANPATH"
 
+export MANPAGER=`which most`
 export PAGER=`which most`
 export EDITOR=`which vi`
 export VISUAL=`which vi`
