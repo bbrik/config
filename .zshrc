@@ -22,3 +22,5 @@ export LANG=en_US.UTF-8
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
 eval "$(dircolors ~/.dircolors)";
+
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
