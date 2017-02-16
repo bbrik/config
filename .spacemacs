@@ -29,7 +29,6 @@ values."
      ;;        shell-default-position 'bottom)
      ;; spell-checking
      syntax-checking
-     unimpaired
      ;; version-control
      )
    dotspacemacs-additional-packages '(base16-theme)
