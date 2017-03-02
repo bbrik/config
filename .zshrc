@@ -15,7 +15,7 @@ alias pain='projadmin ingest'
 alias pg_start='postgres -D /usr/local/var/postgres'
 alias config='`which git` --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 alias m='meteor'
-alias rsy='rsync -a --no-i-r --info=progress2'
+alias rsy='rsync -ah --no-i-r --info=progress2'
 
 export LANG=en_US.UTF-8
 
