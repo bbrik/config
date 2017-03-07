@@ -14,3 +14,5 @@ export PGDATESTYLE="DMY"
 export PGPORT="5433"
 
 export PYTHONDONTWRITEBYTECODE=True
+
+export MONO_GAC_PREFIX="/usr/local"
