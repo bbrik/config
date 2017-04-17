@@ -142,6 +142,8 @@ you should place your code here."
   (add-hook 'org-mode-hook
             (lambda ()
               (auto-fill-mode)))
+
+  (setq flycheck-check-syntax-automatically '(mode-enabled save))
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
