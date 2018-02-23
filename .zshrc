@@ -1,5 +1,7 @@
 export ZSH=$HOME/.oh-my-zsh
 
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+
 ZSH_THEME="agnoster"
 COMPLETION_WAITING_DOTS="true"
 plugins=(brew django git postgres pip python rsync cp fabric virtualenv virtualenvwrapper zsh-syntax-highlighting meteor gnu-utils)
